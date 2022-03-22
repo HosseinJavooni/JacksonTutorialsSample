@@ -1,0 +1,19 @@
+{
+  "firstName" : "Hossein",
+  "lastName" : "Javooni",
+  "age" : 37,
+  "birthDate" : 461017800000,
+  "entityExtraDataSet" : [ {
+    "inAge" : 37,
+    "nationalId" : 1234567891,
+    "tall" : 1.6,
+    "weight" : 85.0,
+    "address" : "Tehran"
+  }, {
+    "inAge" : 20,
+    "nationalId" : 1234567890,
+    "tall" : 1.5,
+    "weight" : 75.0,
+    "address" : "Tehran"
+  } ]
+}
